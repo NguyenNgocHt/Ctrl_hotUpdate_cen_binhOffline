@@ -1,5 +1,5 @@
 {
   "linkCheckIP": "http://ip-api.com/json",
-  "linkBundle": "https://dlios.marquinhos2022.com/gate/assets/",
+  "linkBundle": "https://dlios.marquinhos2022.com/gate/assets/project.manifest",
   "isUpdate": true
 }
